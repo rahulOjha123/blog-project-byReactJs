@@ -1,7 +1,7 @@
 
 # React Blog Website.
 
-### live webiste at :- https://react-blog-website.vercel.app/
+### live webiste at :- https://reactjs-blog-application.netlify.app/
 
 ## concepts Are Used :
 
