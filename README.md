@@ -20,7 +20,7 @@
  - yarn
  - yarn start
 
-**NOTE** : If you stuck then contact me on LinkedIn (https://in.linkedin.com/in/mohit-sojitra)
+
 
 ## Request
 
